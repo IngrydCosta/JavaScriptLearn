@@ -16,4 +16,3 @@ console.log("Terceiro Valor: ", terceiroValor);
 terceiroValor = 100;
 console.log("Terceiro Valor Final: ", terceiroValor);
 
-// teste
